@@ -19,5 +19,5 @@
 
 **Signature**
 
-**POISON by Felicity**
+**Felicity**
 
