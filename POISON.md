@@ -2,7 +2,7 @@
 
 
 
-###### poison\_patch1.exe can intercept the traffic flowing through the gateway and the victim. 
+###### poison\_patch1.exe can intercept the traffic thats being flowing between the gateway and the victim. 
 
 
 
