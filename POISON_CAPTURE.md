@@ -1,5 +1,6 @@
-# POISON_CAPTURE CAN VIEW THE CAPTURED PACKETS .pcap FILE(s) (Not so special!)
+# POISON_CAPTURE
 
+###### poison_capture.exe can view the .pcap files(s) (Not so special!)
 
 
 ###### Signature
